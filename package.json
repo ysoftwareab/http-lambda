@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@types/aws-lambda": "^8.10.35",
-    "lodash-firecloud": "git://github.com/tobiipro/lodash-firecloud.git#semver:~0.5.1"
+    "lodash-firecloud": "git://github.com/rokmoln/lodash-firecloud.git#semver:~0.5.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.0",
@@ -35,15 +35,15 @@
     "babel-core": "^7.0.0-bridge.0",
     "babel-eslint": "^10.0.3",
     "babel-jest": "^24.3.1",
-    "babel-preset-firecloud": "git://github.com/tobiipro/babel-preset-firecloud.git#semver:~0.2.5",
+    "babel-preset-firecloud": "git://github.com/rokmoln/babel-preset-firecloud.git#semver:~0.2.5",
     "eclint": "^2.6.0",
     "eslint": "^6.5.1",
-    "eslint-config-firecloud": "git://github.com/tobiipro/eslint-config-firecloud.git#semver:~0.10.20",
+    "eslint-config-firecloud": "git://github.com/rokmoln/eslint-config-firecloud.git#semver:~0.10.20",
     "eslint-import-resolver-node": "^0.3.3",
     "eslint-plugin-async-await": "^0.0.0",
     "eslint-plugin-babel": "^5.3.0",
     "eslint-plugin-eslint-comments": "^3.1.2",
-    "eslint-plugin-firecloud": "git://github.com/tobiipro/eslint-plugin-firecloud.git#semver:~0.1.0",
+    "eslint-plugin-firecloud": "git://github.com/rokmoln/eslint-plugin-firecloud.git#semver:~0.1.0",
     "eslint-plugin-fp": "^2.3.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jest": "^22.1.0",
