@@ -139,5 +139,5 @@ and out (lambda callback), and shortcircuit the parsing/generation of HTTP messa
 [Apache 2.0](LICENSE)
 
 
-  [1]: https://travis-ci.com/tobiipro/http-lambda
-  [2]: https://travis-ci.com/tobiipro/http-lambda.svg?branch=master
+  [1]: https://travis-ci.com/rokmoln/http-lambda
+  [2]: https://travis-ci.com/rokmoln/http-lambda.svg?branch=master
