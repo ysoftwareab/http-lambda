@@ -27,6 +27,10 @@ export class LambdaHttp {
 
   _res: ServerResponse;
 
+  METHODS: typeof http.METHODS;
+
+  STATUS_CODES: typeof http.STATUS_CODES;
+
   onUncaughtException: NodeJS.UncaughtExceptionListener;
 
   onUnhandledRejection: NodeJS.UnhandledRejectionListener;

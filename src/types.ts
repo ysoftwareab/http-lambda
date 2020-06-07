@@ -62,7 +62,10 @@ export type Event = awsLambda.APIGatewayEvent;
     user: undefined
   }
 */
-export type Context = awsLambda.Context;
+export type Context = awsLambda.Context & {
+  env: Event['stageVariables'];
+  requestContext: Event['requestContext'];
+};
 
 export type Next = awsLambda.Callback<awsLambda.APIGatewayProxyResult>;
 

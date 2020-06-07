@@ -59,13 +59,12 @@ describe('instance of ServerResponse', function() {
   it('can return modified headers', async function() {
     let d = _.deferred();
     let headers = {
-      'x-array': [
+      'x-number': 0,
+      'x-string': 'value',
+      'x-string-array': [
         'true',
         'false'
-      ],
-      'x-boolean': true,
-      'x-number': 0,
-      'x-string': 'value'
+      ]
     };
 
     let e = {};
