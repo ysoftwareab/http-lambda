@@ -36,7 +36,6 @@
     "babel-eslint": "^10.0.3",
     "babel-jest": "^24.3.1",
     "babel-preset-firecloud": "git://github.com/rokmoln/babel-preset-firecloud.git#semver:~0.2.5",
-    "eclint": "^2.6.0",
     "eslint": "^6.5.1",
     "eslint-config-firecloud": "git://github.com/rokmoln/eslint-config-firecloud.git#semver:~0.10.20",
     "eslint-import-resolver-node": "^0.3.3",
